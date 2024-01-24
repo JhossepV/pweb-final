@@ -9,8 +9,9 @@ CREATE TABLE `productos` (
   `id` int(11) NOT NULL,
   `nombre` varchar(255) NOT NULL,
   `descripcion` text NOT NULL,
-  `precio` decimal(10,2) NOT NULL,
-  `stock` int(11) NOT NULL,
+  `precio_normal` decimal(10,2) NOT NULL,
+  `precio_rebajado` decimal(10,2) NOT NULL,
+  `cantidad` int(11) NOT NULL,
   `imagen` varchar(50) NOT NULL,
   `id_categoria` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
