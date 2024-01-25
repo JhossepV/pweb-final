@@ -1,0 +1,116 @@
+
+.container-fluid{
+    color: #0e0808;
+    font-weight: bold;
+    text-align: center; 
+    font-family: 'Revolter';
+    padding: 50px;
+    font-size: 25px;
+    text-decoration: none;
+
+    background-image: url('img/portada2.jpg'); 
+    background-position: center;
+
+}
+.container {
+    margin-top: 20px;
+}
+
+.navbar {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-size: 50px;
+    color: #0e0808;
+    text-decoration: none;
+
+}
+
+.header {
+    color: #fff;
+    text-align: center;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.table th, .table td {
+    text-align: center;
+}
+
+.btn-warning {
+    background-color: #6c6c6c;
+    border-color: #6c6c6c;
+    color: #ffffff;
+    font-family: 'Revolter';
+    font-size: 30px;
+    text-decoration: none;
+    float: right;
+    margin-right: 50px;
+}
+
+#paypal-button-container {
+    margin-top: 20px;
+}
+
+.table-responsive {
+    margin-bottom: 20px;
+}
+
+#total_pagar {
+    font-weight: bold;
+    font-family: 'Letters for Learners';
+    text-decoration: none;
+    font-size: 30px;
+    color: #fe8080;
+    margin: 0;
+}
+
+h1 {
+    color: #0e0808;
+    font-weight: bold;
+    font-family: 'Revolter';
+    font-size: 40px;
+    text-decoration: none;
+    padding: auto;
+    margin: 0;
+    background-color: #daebd4;
+
+}
+
+h4 {
+    color: #0e0808;
+    font-weight: bold;
+    font-family: 'Revolter';
+    font-size: 30px;
+    text-decoration: none;
+    padding: auto;
+    margin-left: 1300px;
+    float: auto;
+
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: #0e0808;
+    font-size: 20px;
+    text-decoration: none;
+    padding: auto;
+    margin: 0;
+
+}
+
+th{
+    font-family: 'Arial';
+    font-family: 'Revolter';
+    font-size: 30px;
+    padding-right: 270px;
+}
+
+td{
+    font-family: 'Letters for Learners';
+    font-size: 30px;
+    padding-right: 270px;
+}

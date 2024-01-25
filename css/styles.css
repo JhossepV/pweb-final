@@ -1,0 +1,76 @@
+body {
+    background-color: #FFFFFF;
+}
+
+header {
+    text-align: center;
+    background-color: #aaaaaa;
+    background-image: url('img/portada2.jpg'); 
+    background-size: cover; 
+    background-position: center;
+    color: #0e0808;
+    text-decoration: none;
+    font-family: 'Revolter'; 
+    padding: 100px;
+}
+
+p{
+    font-family: 'Letters for Learners';
+    font-size: 20px;
+    text-decoration: none;
+    background-color: #daebd4;
+}
+
+.btn-flotante {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #aaaaaa;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;
+    cursor: pointer;
+    font-family: 'Letters for Learners';
+    font-size: 30px;
+    z-index: 9999;
+}
+
+.container-fluid {
+    color: #0e0808;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center; 
+    font-family: 'Revolter';
+    font-size: 25px;
+    text-decoration: none;
+}
+.navbar-brand{
+    color: #daebd4;
+    text-decoration: none;
+    font-size: 30px;
+}
+.nav-link{
+    color: #000000;
+    text-decoration: none;
+}
+
+.custom-container {
+    height: 800px;
+}
+
+.card {
+    height: 100%;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+h5{
+    color: #0e0808;
+    text-decoration: none;
+    font-family: 'Revolter'; 
+    font-size: 30px;
+}
